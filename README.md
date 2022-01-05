@@ -1,2 +1,100 @@
 # Interview-Preparation
-Interview Preparation guide
+## Interview Experience
+### Wissen Round
+- We have a custom class and I want to use it as a key in HashMap, what changes need to do in the class
+- hashCode returning costant value
+- What if I implement equals but did not implement hashCode
+- What if I do not override equals but override hashCode
+- Sort list of Student objects based on firstName
+- How will you make class immutable
+- Benefits of immutable classes
+- Consider class 
+- Synchronze in case of sleep
+- Difference between Object level and class level synchronization/lock
+- java8 code to calculate sum of squares of all odd numbers in the list
+- Difference between HashMap and ConcurrentHashMap
+- DifferenceBetween ConcurrentHashMap and SynchronizedMap
+- SQL queries
+- Find a two number with given sum
+- What is serialization in java
+- How do you handle caching in your microservice
+- Valide parenthesis code and time complexity
+### Mindtree Round I
+- Brief about Project - No. of microservices and technical details
+- communication between microservices
+- Kafka, how many topics created
+- How you are doing authentication and authorization in your project.
+- Role based authorization
+- Are you using any encryption and decryption policies
+- Sonar and JUnit coverage
+- development branching processs
+- CICD pipeline
+- Docker
+- How you are testing your application
+- Any experience on handling juniors
+- Agile
+- Design pattern using in your current project
+- How you are handling exceptions @ControllerAdvice
+- what all features you are using in Java 8 used in your project.
+- Advantage of FunctionalInterface
+### JP Morgan Chase
+- SOLID principles and how you have implemented in your project with example
+- Spring beans scopes
+- Design Patterns with code example
+	- Singleton Design pattern
+		- Multithreading case
+		- Serialization handling
+		- how do you test singleton using any mechanism (JUnit or any other way)
+- Serialization/Deserialization 
+	- how do we perform in Java
+	- Suppose we have a Employee class and we do not want to serialize few fields how could we achieve this ?
+- Hash code always returning 1 and equals is having fname and lname what should be map size when we put 5 elements. 
+- All cases of HashMap
+- Java 8 all features with example
+- using java 8 count occurences of i from the list of strnings
+- count no of occurrences of a char in a string using java 8
+- Exception handling in the inheritance
+- Checked and unchecked exception
+- Aggregation and composition
+- When do we use composition and when do we use composition
+- Code example of Aggregation and Composition
+- Which one is stronger inheritance or composition
+- Kind of relationships
+	- Is A
+	- Has A
+- count the no. of consecutive number in the numeric string
+- Spring profile
+- Performance testing
+- How do you handle security in your APIs
+- When to use == and ===
+- HashMap on object when we have implement equals but not hashcode and viseversa
+- default hashcode by Object class
+- Immutable class
+- Usecase of Immutable class
+- What will happen when one method is static synchronise and another is one on synchronize method, what will have when 2 threads run on both the methds
+- Executor service and thread pools
+- Dependency Injection in Spring
+- When you do autowired how spring knows which bean to inject
+- @Primary in Spring
+- Internal Memery management in Java Spring
+- Exception hierarchy
+- Errors
+- Deadlock situation - debug and resolve deadlock situations
+- Concurrent HashMap realtime scenario
+- How do we make sure our microservice is accepting different format
+### Mindtree
+- Support I want to convert my monolith application to microservice base architech, what are the best practices that you are going to apply
+- Communication between microservices
+- How you are going to communicate when one service is using http and another service is secured and using https
+- How to exclude particular dependency from spring boot (maven or gradle)
+- e.g exclude tomcat dependency from spring boot dependency
+- Java 8 features used in your project
+- difference between map and flatMap
+- Java 8 Map reduce
+- Methods available in Object class related to thread
+- convert StringBuilder to string
+- Major difference in HashMap in Java 7 and Java 8
+- How Java 8 Memory management works
+- How to open a file in a java
+- In spring boot application I do not want to restart tomcat server again and again how do we achieve that
+- How to desgin responsive UI 
