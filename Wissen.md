@@ -1,0 +1,18 @@
+We have a custom class and I want to use it as a key in HashMap, what changes need to do in the class
+- hashCode returning costant value
+- What if I implement equals but did not implement hashCode
+- What if I do not override equals but override hashCode
+- Sort list of Student objects based on firstName
+- How will you make class immutable
+- Benefits of immutable classes
+- Consider class 
+- Synchronze in case of sleep
+- Difference between Object level and class level synchronization/lock
+- java8 code to calculate sum of squares of all odd numbers in the list
+- Difference between HashMap and ConcurrentHashMap
+- DifferenceBetween ConcurrentHashMap and SynchronizedMap
+- SQL queries
+- Find a two number with given sum
+- What is serialization in java
+- How do you handle caching in your microservice
+- Valide parenthesis code and time complexity
